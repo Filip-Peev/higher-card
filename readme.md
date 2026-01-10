@@ -1,8 +1,9 @@
 # Simple Card Game
 
-A full-stack, interactive web-based card game where two players compete for the highest card. This project demonstrates a seamless bridge between a **PHP backend API** and an **Asynchronous JavaScript frontend** with hardware-accelerated CSS animations.
+A full-stack, interactive web-based card game where two players compete for the highest card.
+This project demonstrates a seamless bridge between a **PHP backend API** and an **Asynchronous JavaScript frontend** with hardware-accelerated CSS animations.
 
----
+- **Direct Link** -> [Simple Card Game](https://filip-peev.com/high-card/)
 
 ### Key Features
 * **3D Animated Gameplay**: Utilizes CSS3 `perspective` and `backface-visibility` to create realistic 180-degree card flips.
